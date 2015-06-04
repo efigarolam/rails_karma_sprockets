@@ -1,0 +1,2 @@
+module RailsKarmaSprockets
+end
