@@ -108,5 +108,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  pry
+  pry (~> 0.10.0)
   rails_karma_sprockets!
