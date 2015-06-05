@@ -6,7 +6,7 @@ This gem will help you to integrate Rails (Sprockets) and [Karma](http://karma-r
 ## The problem
 
 If you are using Rails, probably you are using Sprockets, the asset
-pipeline by default. And if you are building you Angular.js app on
+pipeline by default. And if you are building your Angular.js app on
 top of Rails/Sprockets, then you'll have a **manifest** file where you
 glue together the Javascript files needed.
 
